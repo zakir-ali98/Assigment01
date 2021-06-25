@@ -1,0 +1,6 @@
+<h2>Step 1: Move HEAD. The first thing reset will do is move what HEAD points.
+Step 2: Updating the Index Note that if you run git status now you'll see in green the difference between
+ the index and what the new HEAD.
+Step 3: Updating the Working Directory.
+
+</h2>
