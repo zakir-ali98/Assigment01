@@ -1,0 +1,9 @@
+<h2>Git is a version control software which you need to install on your local system in order to use it. For an individual
+ working on a project alone, Git proves to be an excellent software. But what if you are working on a project with a
+ large team. All will be working on the same project but each of you will be having a different version of the same 
+project. Suppose you have made changes in the project directory on your machine and you want to send those changes 
+to your collaborators. Also, you want the changes they make to appear directly in your machine’s project directory.
+ As working on a project, being on the same page with your teammates is very crucial to avoid any type of conflict.
+ So, how you will do that? Well, no worries Git takes care of all but the only condition here is, each of your team
+ members must have Git installed on their systems.
+</h2>
